@@ -1,0 +1,27 @@
+body
+{
+  background-color: #393E46;
+}
+.container
+{
+  text-align: center;
+}
+h1
+{
+  font-family: "Kaushan Script";
+  font-size: 6rem;
+  color: #4ECCA3;
+  margin: 2% 5% 0;
+}
+.player-container
+{
+  text-align: center;
+  display: inline-block;
+  margin: 1% 10%;
+}
+h2
+{
+  font-family: "Comfortaa";
+  font-size: 3rem;
+  color: #4ECCA3;
+}
